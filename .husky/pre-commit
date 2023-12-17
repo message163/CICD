@@ -1,3 +1,5 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
-echo 'test'
+echo 'cicd'
+cd C:\\Users\\11955\\Desktop\\node-app
+node app.js '项目-小满'
