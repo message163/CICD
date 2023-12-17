@@ -21,7 +21,7 @@ jobs:
         npm run build 
 
     - name: Upload to server
-      uses: appleboy/ssh-action@v1.6.1
+      uses: appleboy/ssh-action@master
       with:
         host: 8.140.249.87
         username: root
