@@ -28,6 +28,6 @@ jobs:
         username: root
         password: asd123456789!
         source: test/
-        taget: /home
+        target: /home
 
 
